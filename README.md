@@ -4,5 +4,5 @@
 
 ## 1. Regression
 
-## 2. Classfication
+## 2. Classification
 
